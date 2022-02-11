@@ -1,0 +1,12 @@
+C:\Development\RnD\MassTransit\OrderService\Model\bin\Debug\net5.0\Model.deps.json
+C:\Development\RnD\MassTransit\OrderService\Model\bin\Debug\net5.0\Model.dll
+C:\Development\RnD\MassTransit\OrderService\Model\bin\Debug\net5.0\ref\Model.dll
+C:\Development\RnD\MassTransit\OrderService\Model\bin\Debug\net5.0\Model.pdb
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.dll
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Development\RnD\MassTransit\OrderService\Model\obj\Debug\net5.0\Model.pdb
